@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe15250224206603000102550010000000781010700897" versao="4.00"><ide><cUF>15</cUF><cNF>01070089</cNF><natOp>VENDA DE MERCADORIA</natOp><mod>55</mod><serie>1</serie><nNF>78</nNF><dhEmi>2025-02-28T17:01:00-03:00</dhEmi><tpNF>1</tpNF><idDest>1</idDest><cMunFG>1501402</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>7</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>0</indPres><procEmi>3</procEmi><verProc>4.01_sebrae_b048</verProc></ide><emit><CNPJ>24206603000102</CNPJ><xNome>EDEM C AZULAY</xNome><xFant>VOO DOS ARIRAMBAS</xFant><enderEmit><xLgr>RUA VARIANTE</xLgr><nro>2011</nro><xBairro>MOSQUEIRO</xBairro><cMun>1501402</cMun><xMun>Belem</xMun><UF>PA</UF><CEP>66913670</CEP><cPais>1058</cPais><xPais>BRASIL</xPais></enderEmit><IE>155154850</IE><CRT>1</CRT></emit><dest><CPF>04947542225</CPF><xNome>EMILLY SAMARA SOUSA DOS SANTOS</xNome><enderDest><xLgr>AV. BEIRA MAR</xLgr><nro>15</nro><xBairro>MOSQUEIRO</xBairro><cMun>1501402</cMun><xMun>Belem</xMun><UF>PA</UF><CEP>66916355</CEP><cPais>1058</cPais><xPais>BRASIL</xPais></enderDest><indIEDest>2</indIEDest></dest><det nItem="1"><prod><cProd>52</cProd><cEAN>SEM GTIN</cEAN><cBarra>SEM GTIN</cBarra><xProd>FEIJÃO CARIOCA TIPO 1 KICALDO</xProd><NCM>07133399</NCM><CFOP>5102</CFOP><uCom>UND</uCom><qCom>1.0000</qCom><vUnCom>8.5000000000</vUnCom><vProd>8.50</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>UND</uTrib><qTrib>1.0000</qTrib><vUnTrib>8.5000000000</vUnTrib><indTot>1</indTot></prod><imposto><ICMS><ICMSSN102><orig>0</orig><CSOSN>102</CSOSN></ICMSSN102></ICMS><PIS><PISNT><CST>07</CST></PISNT></PIS><COFINS><COFINSNT><CST>07</CST></COFINSNT></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCPUFDest>0.00</vFCPUFDest><vICMSUFDest>0.00</vICMSUFDest><vICMSUFRemet>0.00</vICMSUFRemet><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><qBCMono>0.00</qBCMono><vICMSMono>0.00</vICMSMono><qBCMonoReten>0.00</qBCMonoReten><vICMSMonoReten>0.00</vICMSMonoReten><qBCMonoRet>0.00</qBCMonoRet><vICMSMonoRet>0.00</vICMSMonoRet><vProd>8.50</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>8.50</vNF><vTotTrib>0.00</vTotTrib></ICMSTot></total><transp><modFrete>9</modFrete></transp><pag><detPag><indPag>0</indPag><tPag>01</tPag><vPag>8.50</vPag></detPag></pag><infRespTec><CNPJ>43728245000142</CNPJ><xContato>suporte</xContato><email>suporteemissores@sebraesp.com.br</email><fone>08005700800</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#NFe15250224206603000102550010000000781010700897"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>RjR+ddcFJDJTxTiLPPCEC6pIIgk=</DigestValue></Reference></SignedInfo><SignatureValue>PXJK0jX0Yot2kz33Z5UIgrbgnUxz6kGDLOsZObLcVegSsyPIDuyweSusErpCBi4Bo3iyxYGdbJbx
+eYeBHpDsQCaNc7eNTPwsU1289hHh30QsP73ePbi/iGjo2wH4YojLj+VydQfEgi5T7yeeJ2wc4Dz2
+GfWZxgK3+QTTDQjZ6FeL/6evU7oH2X8PGNsSMsWrF7q/vBw4dak6osCHmeGO1/HVJh551FtIfYGK
+ED4GscCb5Hg6GQD52fW2X7VRztsgN+vZUewvqsi8rjcAHdK068lEsVixQ60+U/t3RSYtTiUY34n1
+2VllChVdcrw81d3h0uIaiNNAwKQ2qKblHJwujg==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHHDCCBQSgAwIBAgIIIQkkAyBlR+owDQYJKoZIhvcNAQELBQAwWTELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoTCklDUC1CcmFzaWwxFTATBgNVBAsTDEFDIFNPTFVUSSB2NTEeMBwGA1UEAxMVQUMgU09M
+VVRJIE11bHRpcGxhIHY1MB4XDTI0MDMyMDE5NDQwMFoXDTI1MDMyMDE5NDQwMFowgdAxCzAJBgNV
+BAYTAkJSMRMwEQYDVQQKEwpJQ1AtQnJhc2lsMQswCQYDVQQIEwJQQTEOMAwGA1UEBxMFQmVsZW0x
+HjAcBgNVBAsTFUFDIFNPTFVUSSBNdWx0aXBsYSB2NTEXMBUGA1UECxMOMTk5NDMyNjIwMDAxMTgx
+EzARBgNVBAsTClByZXNlbmNpYWwxGjAYBgNVBAsTEUNlcnRpZmljYWRvIFBKIEExMSUwIwYDVQQD
+ExxFREVNIEMgQVpVTEFZOjI0MjA2NjAzMDAwMTAyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAiRNr5R9SybHgZ62Jhtb66w8D4RgM3UeVU7qjZ7E9j5+Ny9g8uZtAbtQZJxAuaWFEc/30
+XrMNhA678J3zpUWn7EZNVZ/yrwjFr9Va1+tJOREjOMNPTB413YsKbP1oXBlKROzs703gvBZL2lN8
+mteVFwyF3uHpD0QHs65YJv+TZoHoHTZnbh8wa3DOD9b2yCGEPIJT0PSsTs90iPD5n03PkiVFBAol
+ne6o42V7PiOYtjTJYhQ4EAw18SJpNt/XG4M5ZEcamQUIwWJdqeP/R/zP62F48niayWft+G6wq62s
+Wisw0kwN9sXgSiChUmdCiNi5Hi8Ku5KF5Bd+cxYn4oHA4QIDAQABo4ICbjCCAmowCQYDVR0TBAIw
+ADAfBgNVHSMEGDAWgBTFUu0lgAnfnILIn0fG3bRfMd25sTBUBggrBgEFBQcBAQRIMEYwRAYIKwYB
+BQUHMAKGOGh0dHA6Ly9jY2QuYWNzb2x1dGkuY29tLmJyL2xjci9hYy1zb2x1dGktbXVsdGlwbGEt
+djUucDdiMIGpBgNVHREEgaEwgZ6BEGVkZW1Ab3V0bG9vay5jb22gHAYFYEwBAwKgExMRRURFTSBD
+VU5IQSBBWlVMQVmgGQYFYEwBAwOgEBMOMjQyMDY2MDMwMDAxMDKgOAYFYEwBAwSgLxMtMTcxMTE5
+NzQ0MTQ2MDk5NTI4NzAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwoBcGBWBMAQMHoA4TDDAwMDAw
+MDAwMDAwMDBdBgNVHSAEVjBUMFIGBmBMAQIBJjBIMEYGCCsGAQUFBwIBFjpodHRwOi8vY2NkLmFj
+c29sdXRpLmNvbS5ici9kb2NzL2RwYy1hYy1zb2x1dGktbXVsdGlwbGEucGRmMB0GA1UdJQQWMBQG
+CCsGAQUFBwMCBggrBgEFBQcDBDCBjAYDVR0fBIGEMIGBMD6gPKA6hjhodHRwOi8vY2NkLmFjc29s
+dXRpLmNvbS5ici9sY3IvYWMtc29sdXRpLW11bHRpcGxhLXY1LmNybDA/oD2gO4Y5aHR0cDovL2Nj
+ZDIuYWNzb2x1dGkuY29tLmJyL2xjci9hYy1zb2x1dGktbXVsdGlwbGEtdjUuY3JsMB0GA1UdDgQW
+BBQVjV854bYcXQSN6hAO5uHBfv6p0TAOBgNVHQ8BAf8EBAMCBeAwDQYJKoZIhvcNAQELBQADggIB
+AGyJv6/ZD68w2tTc8C7XGRjAX3vLYT8hwpHklnaOOwtDe1C7T5z4wLblRJ38fKjcwW1JxDlVYNqv
+hXT2awaQxxl7iu4E6HYOQFbxUCEOb/pUBYW/uzmsY7bSoNNc/EA9QkiDeWlV8k8ArSD8Klh/SjAZ
+6PsUWXzZNSaDlEbLwS+YRocFjftNSQx7aAXEc/Do5me35Lt+ItIdsE/oHi5ZgwtK2GzS/K9/Yclo
+/MlVr3FZjVtf07hVBKeC1u5b2c1Sp6852vLqYZbqopJWJVTlVY1W7bgVT2HVGpGyVyQ6x0jPLjR1
+PhRKMoUQFzO4RlcIFvuvxrif1GOtZMzw0coSvTPFTPLX4et5RPnOMkHA8SeGhTsqUo2766/7ixGh
+vCc3uxzFQKAFDShuEmm5a2TmBPF8X79J8aVlpTE0M0DPjAeV4BRSaJl88n9dw6tZeNRsnr9z7a4v
+TDBT4VnBUYl7RoHOF4WIsdGid0W08R3m7pIb3qWxef0qpBhTakUcysoJo9ycnlmLvDI6otuQ2lBg
+g/fsvG3q09xujTcTQb8etu9t0TOxgRt9sURf77g/2A7NTHpFR/MEal7+Dn7oc2ny7/9Cx9K91G8S
+s2Fq7DfAJA4KzFmp8e4OGd/jyL69s60971QWtrFLecwRm5dznLYGm/cMjGCQPV4ScweaMvt37a/R</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt><tpAmb>1</tpAmb><verAplic>SVRS2501312310DR</verAplic><chNFe>15250224206603000102550010000000781010700897</chNFe><dhRecbto>2025-02-28T17:02:37-03:00</dhRecbto><nProt>215250010295948</nProt><digVal>RjR+ddcFJDJTxTiLPPCEC6pIIgk=</digVal><cStat>100</cStat><xMotivo>Autorizado o uso da NF-e</xMotivo></infProt></protNFe></nfeProc>
