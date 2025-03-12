@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe15241123375098000167550010000000271080510002" versao="4.00"><ide><cUF>15</cUF><cNF>08051000</cNF><natOp>VENDA DE MERCADORIA</natOp><mod>55</mod><serie>1</serie><nNF>27</nNF><dhEmi>2024-11-14T11:19:00-03:00</dhEmi><tpNF>1</tpNF><idDest>1</idDest><cMunFG>1501402</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>2</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>0</indPres><procEmi>3</procEmi><verProc>4.01_sebrae_b045</verProc></ide><emit><CNPJ>23375098000167</CNPJ><xNome>D DO S Q DE OLIVEIRA JOIAS</xNome><xFant>OLIVEIRA &amp; XAVIER JOIAS</xFant><enderEmit><xLgr>AV. 16 DE NOVEMBRO</xLgr><nro>465</nro><xBairro>MOSQUEIRO</xBairro><cMun>1501402</cMun><xMun>Belem</xMun><UF>PA</UF><CEP>66910140</CEP><cPais>1058</cPais><xPais>BRASIL</xPais></enderEmit><IE>155013319</IE><CRT>3</CRT></emit><dest><CPF>93688040287</CPF><xNome>ANA KARLA GOMES FERREIRA BARBOSA</xNome><enderDest><xLgr>AV. 16 DE NOVEMBRO</xLgr><nro>321</nro><xBairro>MOSQUEIRO</xBairro><cMun>1501402</cMun><xMun>Belem</xMun><UF>PA</UF><CEP>66910140</CEP><cPais>1058</cPais><xPais>BRASIL</xPais></enderDest><indIEDest>2</indIEDest></dest><det nItem="1"><prod><cProd>51</cProd><cEAN>SEM GTIN</cEAN><cBarra>SEM GTIN</cBarra><xProd>CANETA</xProd><NCM>96082000</NCM><CFOP>5102</CFOP><uCom>UND</uCom><qCom>1.0000</qCom><vUnCom>3.5000000000</vUnCom><vProd>3.50</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>UND</uTrib><qTrib>1.0000</qTrib><vUnTrib>3.5000000000</vUnTrib><indTot>1</indTot></prod><imposto><ICMS><ICMS40><orig>0</orig><CST>40</CST></ICMS40></ICMS><PIS><PISNT><CST>07</CST></PISNT></PIS><COFINS><COFINSNT><CST>07</CST></COFINSNT></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCPUFDest>0.00</vFCPUFDest><vICMSUFDest>0.00</vICMSUFDest><vICMSUFRemet>0.00</vICMSUFRemet><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><qBCMono>0.00</qBCMono><vICMSMono>0.00</vICMSMono><qBCMonoReten>0.00</qBCMonoReten><vICMSMonoReten>0.00</vICMSMonoReten><qBCMonoRet>0.00</qBCMonoRet><vICMSMonoRet>0.00</vICMSMonoRet><vProd>3.50</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>3.50</vNF><vTotTrib>0.00</vTotTrib></ICMSTot></total><transp><modFrete>9</modFrete></transp><pag><detPag><indPag>0</indPag><tPag>01</tPag><vPag>3.50</vPag></detPag></pag><infRespTec><CNPJ>43728245000142</CNPJ><xContato>suporte</xContato><email>suporteemissores@sebraesp.com.br</email><fone>08005700800</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#NFe15241123375098000167550010000000271080510002"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>aWfoGboQwkOEMpJ667lDtKAgFG4=</DigestValue></Reference></SignedInfo><SignatureValue>RypdzF5ygoKpJZhK71afVh2m27diSKF9felAqul0e5sNHPMh1ij1QfCD7FE9n8FWFsAlpXRyL5LP
+IHzuJ3Ha2/udlvo4cT2hHLQX/hvvjRghp2BJOPw+63T1/fdd04UKWjxxAmITfTssiHpWP4ZL/o5l
+RAAqgFjPQTr2Tglo4n82nvzq3G1eAFr/6EzDO51Gl9r3TqOjaA0ux1bRU7fwS2inxN6Gh1LFzpS2
+XGQVhAcEIZv03lqmlGDC7cuQySHLpaqX5lzw/BEqKL7C1lIdJMBKZ21QQA5LshFqWZDQxO2GoDcf
+f/dABPywl236KqiPv84oMV9OlWuQ7jwHPZbnlw==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHTTCCBTWgAwIBAgIIIQkkBRU5OfwwDQYJKoZIhvcNAQELBQAwWTELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoTCklDUC1CcmFzaWwxFTATBgNVBAsTDEFDIFNPTFVUSSB2NTEeMBwGA1UEAxMVQUMgU09M
+VVRJIE11bHRpcGxhIHY1MB4XDTI0MDUxNTEzMDMwMFoXDTI1MDUxNTEzMDMwMFowgeIxCzAJBgNV
+BAYTAkJSMRMwEQYDVQQKEwpJQ1AtQnJhc2lsMQswCQYDVQQIEwJQQTETMBEGA1UEBxMKQW5hbmlu
+ZGV1YTEeMBwGA1UECxMVQUMgU09MVVRJIE11bHRpcGxhIHY1MRcwFQYDVQQLEw4xOTk0MzI2MjAw
+MDExODETMBEGA1UECxMKUHJlc2VuY2lhbDEaMBgGA1UECxMRQ2VydGlmaWNhZG8gUEogQTExMjAw
+BgNVBAMTKUQgRE8gUyBRIERFIE9MSVZFSVJBIEpPSUFTOjIzMzc1MDk4MDAwMTY3MIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApk81QjN203Apiibz8mgVwrFCp8g4IQA6iZnfVi/noIxj
+q45KO+QaPwJMiTW8cD/QgKolp8Cy1rX+vbKlg6tTqU5z/TvYUWBqKu1ZY0tcgcLknA/1O8tMdNQO
+Q1I91YVet+Q8qkSngpp46KVK3zze+1blU+jbBnTdtBouRriufG0s1pyfSeo/JvvTvxV9S18BXw6Y
+aM3VPEQPhffYmSZwU5AQC8bv3wClkO97tQi1Zs6D6M4984+dNx1Onym0H8XslPTk1vmJ1AHgUJyC
+ycAdg6Vu+8rifhZMsmu8FloxkGM1twFd6r1zb3JnErfAf55R7ewv9d004rR5L26Zf8zLswIDAQAB
+o4ICjTCCAokwCQYDVR0TBAIwADAfBgNVHSMEGDAWgBTFUu0lgAnfnILIn0fG3bRfMd25sTBUBggr
+BgEFBQcBAQRIMEYwRAYIKwYBBQUHMAKGOGh0dHA6Ly9jY2QuYWNzb2x1dGkuY29tLmJyL2xjci9h
+Yy1zb2x1dGktbXVsdGlwbGEtdjUucDdiMIHIBgNVHREEgcAwgb2BGmRpb3ZhbmVxdWVpcm96QGhv
+dG1haWwuY29toDEGBWBMAQMCoCgTJkRpb3ZhbmUgZG8gU29jb3JybyBRdWVpcm96IGRlIE9saXZl
+aXJhoBkGBWBMAQMDoBATDjIzMzc1MDk4MDAwMTY3oDgGBWBMAQMEoC8TLTE2MTExOTg3ODk0ODU3
+MzQyMDQwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMKAXBgVgTAEDB6AOEwwwMDAwMDAwMDAwMDAw
+XQYDVR0gBFYwVDBSBgZgTAECASYwSDBGBggrBgEFBQcCARY6aHR0cDovL2NjZC5hY3NvbHV0aS5j
+b20uYnIvZG9jcy9kcGMtYWMtc29sdXRpLW11bHRpcGxhLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcD
+AgYIKwYBBQUHAwQwgYwGA1UdHwSBhDCBgTA+oDygOoY4aHR0cDovL2NjZC5hY3NvbHV0aS5jb20u
+YnIvbGNyL2FjLXNvbHV0aS1tdWx0aXBsYS12NS5jcmwwP6A9oDuGOWh0dHA6Ly9jY2QyLmFjc29s
+dXRpLmNvbS5ici9sY3IvYWMtc29sdXRpLW11bHRpcGxhLXY1LmNybDAdBgNVHQ4EFgQU6IoyOJ8U
+EWkoW6taBJb8nFs6D2owDgYDVR0PAQH/BAQDAgXgMA0GCSqGSIb3DQEBCwUAA4ICAQCAnNSlw/VB
+X1HIOH7KrtXv/DinY8jBaE19EGOmaOUoGyV2CVhven0JmxQ8HajoggPOr5RtJbT36FsL7yAXevVJ
+lREew1uA4cAWl8arkZGKedGSKyyQxdWuBdpNv6X50V3j3+zIgpdCLi7P/YBnLp3qRmBoSLDTf9sD
+8Pf3WDQfSpC3DHmNcff55dIEp93O89ZzhLp309NuZgLolqXdu+hhbDed8S3blM5ibiE/6G3yhtst
+xdpAIsz4VII9maYQE6zddcRkYjLjXfcX3p6algdJJkwWIFW2JQJ3IHtsnIt2dQE7jbOipcCuqWJb
+f7grZnhSOzKB5oPxtHfICHFyfmXjCeAMdLnxYF7IBiKs0Yu0gdCdCj8TtTqqe1w/mmN+h6wJxec3
+ZLitkHMaa3Sj9uz6SVczjnKLdL6AH2QP3UzdwyE6UYdxFnnXJ2TA7tK6ncAioWA/lddP5XPxgQbq
+gMZUUyJifKV2lQDFcpajIknMY8wE2kxesmxX30NKS3WERQEZU7AHeUX5lsKKJ8jBVbveolk5vQ46
+UIeKZ3eJPybFUj6jDJhqva1LpZvSdo+OOh0eogqU4cVLNqMojVkvAizvcILQjXCkBS3WLtdZM7AE
+cqLrsvdwv1EUWlrft7la1XDFhkicN0mZrNzn8FH25eI280+jYbJ+cPUBmawCtWF9ow==</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt><tpAmb>1</tpAmb><verAplic>SVRS2410240814DR</verAplic><chNFe>15241123375098000167550010000000271080510002</chNFe><dhRecbto>2024-11-14T11:21:00-03:00</dhRecbto><nProt>215240033951005</nProt><digVal>aWfoGboQwkOEMpJ667lDtKAgFG4=</digVal><cStat>100</cStat><xMotivo>Autorizado o uso da NF-e</xMotivo></infProt></protNFe></nfeProc>

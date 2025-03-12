@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe><infNFe Id="NFe15250202618278000152650020000099711746690949" versao="4.00"><ide><cUF>15</cUF><cNF>74669094</cNF><natOp>VENDA DE MERCADORIA</natOp><mod>65</mod><serie>2</serie><nNF>9971</nNF><dhEmi>2025-02-04T16:48:43-03:00</dhEmi><tpNF>1</tpNF><idDest>1</idDest><cMunFG>1501402</cMunFG><tpImp>4</tpImp><tpEmis>1</tpEmis><cDV>9</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>1</indFinal><indPres>1</indPres><procEmi>0</procEmi><verProc>i9Empresa 34.6</verProc></ide><emit><CNPJ>02618278000152</CNPJ><xNome>E B DE LIMA</xNome><xFant>FARMACIA SANTOS FILHO</xFant><enderEmit><xLgr>RUA NOSSA SENHORA DO O</xLgr><nro>83</nro><xBairro>MOSQUEIRO</xBairro><cMun>1501402</cMun><xMun>Belém</xMun><UF>PA</UF><CEP>66630505</CEP><fone>9137711341</fone></enderEmit><IE>152003177</IE><CRT>1</CRT></emit><det nItem="1"><prod><cProd>24086</cProd><cEAN>7898216365708</cEAN><xProd>AZITROMICINA 500 MG 5CP</xProd><NCM>30042029</NCM><CEST>1300200</CEST><CFOP>5405</CFOP><uCom>UN</uCom><qCom>1</qCom><vUnCom>30</vUnCom><vProd>30.00</vProd><cEANTrib>7898216365708</cEANTrib><uTrib>UN</uTrib><qTrib>1</qTrib><vUnTrib>30</vUnTrib><indTot>1</indTot></prod><imposto><ICMS><ICMSSN500><orig>0</orig><CSOSN>500</CSOSN></ICMSSN500></ICMS><PIS><PISNT><CST>07</CST></PISNT></PIS><COFINS><COFINSNT><CST>07</CST></COFINSNT></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCPUFDest>0.00</vFCPUFDest><vICMSUFDest>0.00</vICMSUFDest><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>30.00</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>30.00</vNF></ICMSTot></total><transp><modFrete>9</modFrete></transp><pag><detPag><tPag>01</tPag><vPag>30.00</vPag></detPag></pag></infNFe><infNFeSupl><qrCode><![CDATA[https://appnfc.sefa.pa.gov.br/portal/view/consultas/nfce/consultanfce.seam?p=15250202618278000152650020000099711746690949|2|1|1|b672b91381855147bea84c28d00c30fa8b9fd0da]]></qrCode><urlChave>https://appnfc.sefa.pa.gov.br/portal/view/consultas/nfce/consultanfce.seam</urlChave></infNFeSupl><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#NFe15250202618278000152650020000099711746690949"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>tJxdwOW01iJfu+nMZHznX+Iv60Q=</DigestValue></Reference></SignedInfo><SignatureValue>Rt7p63cIOCX2N4ZrR2w+lJz9LlNL/5sbS85i7vsmLh5w0wKvVBbR135yrq+eKL2js+AGax0VKjW5
+CQgC6NfJd50zq85WPWJgObETWnIwki24JKU0kPV1rwXFhXMUR7pDCztLaHSnluFLjz+IOI3flY+0
+CKrs+I1mgN6BtoLefkLxEtf9fn5XmGOEqZd1QTsj3Cd94SORZfYxjnCfhuwQGtDbAnXcjYNh4062
+IDY/HNyxzXm2lcKaKS8/WYDWGukXzXSgPe/Mgii0kGO+sySKXIUKopS4Vy2Po7zLGD8sDlGjcjqR
+yxUotf7SzjUIvmeB+LSvQcGYLHJN0Jzvytq4TQ==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHPzCCBSegAwIBAgIIIQkkAxI0ENwwDQYJKoZIhvcNAQELBQAwWTELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoTCklDUC1CcmFzaWwxFTATBgNVBAsTDEFDIFNPTFVUSSB2NTEeMBwGA1UEAxMVQUMgU09M
+VVRJIE11bHRpcGxhIHY1MB4XDTI0MDMxMjEyNTQwMFoXDTI1MDMxMjEyNTQwMFowgdcxCzAJBgNV
+BAYTAkJSMRMwEQYDVQQKEwpJQ1AtQnJhc2lsMQswCQYDVQQIEwJQQTEOMAwGA1UEBxMFQmVsZW0x
+HjAcBgNVBAsTFUFDIFNPTFVUSSBNdWx0aXBsYSB2NTEXMBUGA1UECxMOMTk5NDMyNjIwMDAxMTgx
+EzARBgNVBAsTClByZXNlbmNpYWwxGjAYBgNVBAsTEUNlcnRpZmljYWRvIFBKIEExMSwwKgYDVQQD
+EyNGQVJNQUNJQSBTQU5UT1MgTFREQTowMjYxODI3ODAwMDE1MjCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAJZ0kxyNfjCfO/eDEjwC4gOeE5YkW4PKcGiOlR4YuG7W3T7FbARFYs58D1aQ
+rbuPLTCwgd5ofiEo55qXKoTRa8+IcJoyIoJl3cX57ei49qNQTWd5TtFrJUwPTlBcrpZJXAAAkrOL
+VFX59jIB3i2K14Kz57bFyVGtOxbR/CSQiF9O+pvn2FMTkUzkUKNvrPnNLPFWPad4Uz+YCz+p9fo0
+CtmJt+YmePEumRBv98mgS1sad8FPpFvuDUGCLTpq6Ret2PhZcbvcE8FETVdEpqlYBOLP1k+L2g0n
+PobW8UqJfUJ1ZQt8AIMatxyybdTNhBffrnKqUxRkCSx6N2/tr59CPw8CAwEAAaOCAoowggKGMAkG
+A1UdEwQCMAAwHwYDVR0jBBgwFoAUxVLtJYAJ35yCyJ9Hxt20XzHdubEwVAYIKwYBBQUHAQEESDBG
+MEQGCCsGAQUFBzAChjhodHRwOi8vY2NkLmFjc29sdXRpLmNvbS5ici9sY3IvYWMtc29sdXRpLW11
+bHRpcGxhLXY1LnA3YjCBxQYDVR0RBIG9MIG6gR5mYXJtYWNpYXNhbnRvczIwMTBAaG90bWFpbC5j
+b22gKgYFYEwBAwKgIRMfSk9TRSBHSUxWQU5EUk8gQ0FSTU8gRE9TIFNBTlRPU6AZBgVgTAEDA6AQ
+Ew4wMjYxODI3ODAwMDE1MqA4BgVgTAEDBKAvEy0wMzA3MTk1NzEyNDc1NjYxMjkxMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDAwMDCgFwYFYEwBAwegDhMMMDAwMDAwMDAwMDAwMF0GA1UdIARWMFQwUgYG
+YEwBAgEmMEgwRgYIKwYBBQUHAgEWOmh0dHA6Ly9jY2QuYWNzb2x1dGkuY29tLmJyL2RvY3MvZHBj
+LWFjLXNvbHV0aS1tdWx0aXBsYS5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIGM
+BgNVHR8EgYQwgYEwPqA8oDqGOGh0dHA6Ly9jY2QuYWNzb2x1dGkuY29tLmJyL2xjci9hYy1zb2x1
+dGktbXVsdGlwbGEtdjUuY3JsMD+gPaA7hjlodHRwOi8vY2NkMi5hY3NvbHV0aS5jb20uYnIvbGNy
+L2FjLXNvbHV0aS1tdWx0aXBsYS12NS5jcmwwHQYDVR0OBBYEFEV6AcJcSKyXn+Xv5zaWK7BqwTVu
+MA4GA1UdDwEB/wQEAwIF4DANBgkqhkiG9w0BAQsFAAOCAgEARzonwW/7+VJm1IvJvIdYc12ZzTxS
+VBeelpL6fk85dQhFSb36E3HoI4IDS/BMRRyyude5w5DI2GEWqyS0P0h/Uz5IEJhSE/iR0BVNM/cy
+jrcp3+DKzfoCotee3Es3AxgYSFXiXNQ3nuOY9ku+YwkUZJdfXEvnOtlelhcgmbZFQKh8MRB8xvoz
+2r9gealCiBdI8fsn3QOcU5xmGYocp9/6tzil56tBvkdwDG9V8iTvYWAQk6Gj7ymenTrcax/AIuuC
+dAiMYxmAy99SQCPMhZvwQw4JJYxx87L6achjZG25ESeYuHS1G8GPuftf8ybMAfP5xtVXC9j8jDTa
+M8yKYHdnNX3xM92c/SNRolzQ7sr2tURW1JbFWz7WyV07W/JlCDe7VOLKPPY6Mrqvmtj07IIHlaGY
+qJV03ZEzsBQ0a2UxSFYyeRnNUsAzgOveOLMIkuBhsKSFc2bvtxXUv6ibF5rnQI+T8k8gHK6p5Zg1
+PFBHla+ZdKb5e3ZmotnudciynPjAYX7emKfCfhfG7QMfsU0TA5cQTdcXkSlwRehbiuWnCVW3DZ5z
+82bzfu8EF3A3QNdXw9yv1B3TgGy3lxaB10UnLB676NDEKeJdrwJ2KPAbgy0tcOiBHm243d2q5yh7
+GVU9iovR602nggxFvsmYECCQqJ49tNUMFx/NTSVZSvZ8uk0=</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00"><infProt><tpAmb>1</tpAmb><verAplic>SVRSnfce2501301714DR</verAplic><chNFe>15250202618278000152650020000099711746690949</chNFe><dhRecbto>2025-02-04T16:56:50-03:00</dhRecbto><nProt>215250067628668</nProt><digVal>tJxdwOW01iJfu+nMZHznX+Iv60Q=</digVal><cStat>100</cStat><xMotivo>Autorizado o uso da NF-e</xMotivo></infProt></protNFe></nfeProc>
